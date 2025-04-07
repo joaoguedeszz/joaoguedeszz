@@ -31,4 +31,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=joaoguedeszz&show_icons=true" />
 </picture>
 
-![Snake animation](https://github.com/joaoguedeszz/joaoguedeszz/blob/output/github-contribution-grid-snake.svg)
+
