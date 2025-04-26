@@ -23,7 +23,10 @@
 
 <div align="center">
   <a href="https://github.com/joaoguedess">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaoguedess&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguedess&layout=compact&langs_count=7&theme=dark"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaoguedess&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguedess&layout=compact&langs_count=7&theme=cobalt2"/>
   </a>
 </div>
+
+##
+
