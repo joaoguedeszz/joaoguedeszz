@@ -1,7 +1,7 @@
 ## _Olá! Me chamo João Guedes_
 
 -  Estudante da Alura
--  Estudando Front-End
+-  Estudando Back-End
 -  Email para contato: joaohenriqueguedes1@gmail.com
 
 <div style="display: inline_block"><br>
