@@ -26,7 +26,7 @@
 
 <div align="center">
   <a href="https://github.com/joaoguedeszz">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaoguedeszz&show_icons=true&theme=cobalt2&include_all_commits=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguedeszz&layout=compact&langs_count=7&theme=cobalt2"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaoguedeszz&show_icons=true&theme=transparent&include_all_commits=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguedeszz&layout=compact&langs_count=7&theme=transparent"/>
   </a>
 </div>
