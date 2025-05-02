@@ -1,6 +1,5 @@
 ## _Olá! Me chamo João Guedes_
 
-- Engenheiro de Software
 -  Estudante da Alura  
 -  Estudando Back-End  
 -  Email para contato: joaohenriqueguedes1@gmail.com  
