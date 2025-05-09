@@ -1,5 +1,10 @@
 ## _Olá! Me chamo João Guedes_
 
+Sou desenvolvedor júnior com foco em JavaScript, CSS e Node.js. Tenho paixão por transformar ideias em soluções práticas através da programação. Gosto de trabalhar tanto no frontend quanto no backend, buscando sempre escrever código limpo, funcional e fácil de manter.
+
+Atualmente, estou em constante aprendizado e aprimoramento das minhas habilidades, explorando novas tecnologias e boas práticas de desenvolvimento. Tenho familiaridade com criação de interfaces web responsivas, consumo de APIs e construção de aplicações usando o ecossistema Node.js.
+
+Estou em busca de oportunidades que me permitam crescer profissionalmente, contribuir com projetos reais e aprender com desenvolvedores mais experientes.
 -  Dev
 -  Front-End & Back-End
 -  Email para contato: joaohenriqueguedes1@gmail.com  
