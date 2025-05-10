@@ -1,4 +1,4 @@
-## _Olá! Me chamo João Guedes_
+## Olá! Me chamo João Guedes
 
 Sou desenvolvedor júnior com foco em JavaScript, CSS e Node.js. Tenho paixão por transformar ideias em soluções práticas através da programação. Gosto de trabalhar tanto no frontend quanto no backend, buscando sempre escrever código limpo, funcional e fácil de manter.
 
