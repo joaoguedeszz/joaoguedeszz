@@ -4,7 +4,6 @@ Sou desenvolvedor júnior com foco em JavaScript, CSS e Node.js. Tenho paixão p
 
 Atualmente, estou em constante aprendizado e aprimoramento das minhas habilidades, explorando novas tecnologias e boas práticas de desenvolvimento. Tenho familiaridade com criação de interfaces web responsivas, consumo de APIs e construção de aplicações usando o ecossistema Node.js.
 
--  Front-End & Back-End
 -  Email para contato: joaohenriqueguedes1@gmail.com  
 
 <div style="display: inline_block"><br>
