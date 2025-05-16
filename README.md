@@ -25,7 +25,7 @@ Contact email: joaohenriqueguedes1@gmail.com
 
 <div align="center">
   <a href="https://github.com/joaoguedeszz">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaoguedeszz&show_icons=true&theme=transparent&include_all_commits=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguedeszz&layout=compact&langs_count=7&theme=transparent"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaoguedeszz&show_icons=true&theme=shadow_red&include_all_commits=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguedeszz&layout=compact&langs_count=7&theme=shadow_red"/>
   </a>
 </div>
