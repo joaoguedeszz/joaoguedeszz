@@ -6,7 +6,6 @@ I am a software developer, passionate about transforming ideas into practical so
 
 Currently, I am constantly learning and improving my skills, exploring new technologies and good development practices. I am familiar with creating responsive web interfaces, consuming APIs and building applications using the Node.js ecosystem.
 
-Contact email: joaohenriqueguedes1@gmail.com
 
 ### 🧰 Languages and Tools
 <div style="display: inline_block"><br>
