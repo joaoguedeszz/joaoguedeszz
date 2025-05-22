@@ -6,7 +6,6 @@ I am a software developer, passionate about transforming ideas into practical so
 
 Currently, I am constantly learning and improving my skills, exploring new technologies and good development practices. I am familiar with creating responsive web interfaces, consuming APIs and building applications using the Node.js ecosystem.
 
-
 ### 🧰 Languages and Tools
 <div style="display: inline_block"><br>
   <img align="center" alt="João-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,6 +16,8 @@ Currently, I am constantly learning and improving my skills, exploring new techn
   <img align="center" alt="João-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="João-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="João-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+  <img align="center" alt="João-IntelliJ" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
+  <img align="center" alt="João-Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
 </div>
 
 ##
