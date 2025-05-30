@@ -2,7 +2,7 @@
 
 **`Software Engineer`**
 
-I am a software developer using Java language, passionate about transforming ideas into practical solutions through programming. I enjoy working on both the frontend and backend and in developing software, always seeking to write clean, functional and easy-to-maintain code.
+I am a software developer, passionate about transforming ideas into practical solutions through programming. I enjoy working on both the frontend and backend and in developing software, always seeking to write clean, functional and easy-to-maintain code.
 
 Currently, I am constantly learning and improving my skills, exploring new technologies and good development practices. I am familiar with creating responsive web interfaces, consuming APIs and building applications using the Node.js and Springboot ecosystem.
 
