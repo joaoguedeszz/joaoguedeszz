@@ -1,10 +1,12 @@
-# João Guedes
+# João Guedes  
 
-**`Software Engineer`**
+**`Software Engineer | Automation & AI Developer`**
 
-I am a software developer, passionate about transforming ideas into practical solutions through programming. I enjoy working on both the frontend and backend and in developing software, always seeking to write clean, functional and easy-to-maintain code.
+I am a software engineer focused on building intelligent and scalable solutions. I specialize in automation and artificial intelligence, developing systems that optimize processes, reduce manual work, and improve efficiency in real-world scenarios.
 
-Currently, I am constantly learning and improving my skills, exploring new technologies and good development practices. I am familiar with creating responsive web interfaces, consuming APIs and building applications using the Node.js and Springboot ecosystem.
+I have experience in both frontend and backend development, working with APIs, system integrations, and modern architectures. My goal is to create clean, maintainable, and high-performance applications that not only solve problems, but also evolve with business needs.
+
+Currently, I am constantly improving my skills in automation, AI, and software architecture, exploring new technologies to build smarter and more autonomous systems.
 
 ### 🧰 Languages and Tools
 <div style="display: inline_block"><br>
@@ -19,5 +21,3 @@ Currently, I am constantly learning and improving my skills, exploring new techn
   <img align="center" alt="João-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="João-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
-
-##
